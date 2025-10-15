@@ -152,7 +152,7 @@ Ofrece ventajas como mayor seguridad, autoconfiguración y mejor enrutamiento.
 `ss -tunap`  
 
 **Salida esperada:**  
-![IPv4 e IPv6](imagenes/ip.png)
+![IPv4 e IPv6](ipv46.png)
 
 ---
 
@@ -172,7 +172,7 @@ Su modelo de actualizaciones es **rolling release**, es decir, el sistema se man
 `timedatectl set-ntp true`  
 
 **b. Ver discos disponibles:**  
-`fdisk -l`  
+`sudo fdisk -l`  
 
 **c. Crear particiones en el disco:**  
 `cfdisk /dev/sda`  
