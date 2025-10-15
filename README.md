@@ -60,8 +60,9 @@
 - `P` — ordenar por %CPU (toggle).  
 - `M` — ordenar por %MEM (toggle)
 
-**c. Cómo usarlo:**  
-Para ejecutarlo simplemente usa:  
+**c. Cómo usarlo:** 
+`sudo apt install htop`
+y para ejecutarlo seusa:  
 `htop`
 
 **d. Salida esperada:**  
