@@ -82,6 +82,8 @@ Instalación:
 `sudo apt install glances -y`  
 Ejecución:  
 `glances`  
+![Ejecución de glances](glances.png)
+
 
 **b. ifconfig**  
 Permite ver y configurar interfaces de red.  
@@ -89,6 +91,8 @@ Instalación:
 `sudo apt install net-tools -y`  
 Ver interfaces de red:  
 `ifconfig`  
+![Ejecución de ifconfig](ifconfig.png)
+
 
 **c. nmap**  
 Herramienta de análisis de red que detecta equipos, puertos abiertos y servicios.  
@@ -96,6 +100,8 @@ Instalación:
 `sudo apt install nmap -y`  
 Escaneo de red básico:  
 `nmap -sn 192.168.1.0/24`  
+![Ejecución de nmap](nmap.png)
+
 
 **d. lynis**  
 Auditor de seguridad que evalúa vulnerabilidades en tu sistema.  
@@ -104,10 +110,9 @@ Instalación:
 Ejecutar auditoría completa:  
 `sudo lynis audit system`  
 
-**Salida de ejemplo:**  
-![Resultados de glances](imagenes/glances.png)  
-![Resultados de nmap](imagenes/nmap.png)  
-![Resultados de lynis](imagenes/lynis.png)
+![Ejecución de lynis](lynis.png)
+
+
 
 ---
 
