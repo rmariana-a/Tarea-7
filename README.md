@@ -59,6 +59,8 @@
 - `U` — mostrar solo procesos de usuario actual (toggle).  
 - `P` — ordenar por %CPU (toggle).  
 - `M` — ordenar por %MEM (toggle)
+![Tecla de función de htop](teclasf.png)
+
 
 **c. Cómo usarlo:** 
 `sudo apt install htop`
@@ -66,7 +68,7 @@ y para ejecutarlo seusa:
 `htop`
 
 **d. Salida esperada:**  
-![Ejecución de htop](imagenes/htop.png)
+![Ejecución de htop](htop.png)
 
 ---
 
